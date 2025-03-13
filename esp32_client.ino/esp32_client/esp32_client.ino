@@ -8,7 +8,7 @@
 const char * ssid = "3003";
 const char * pswrd = "lam010171";
 //const char * mqtt_server = "10.0.0.53";
-const char * mqtt_server = "192.168.1.140";
+const char * mqtt_server = "192.168.1.140"; //Input your Broker IP
 
 
 //Defin Pins of peripherals
